@@ -1,5 +1,5 @@
 module.exports = {
   hello: function () {
-    console.log('/packages/lerna-test-a/index.js');
+    console.log('/packages/lerna-test-a/index.js 2');
   }
 };
