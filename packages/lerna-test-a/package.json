@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-a",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "main": "index.js",
   "author": "",
@@ -9,6 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "lerna-test-b": "0.0.7"
+    "lerna-test-b": ">=0.0.7"
   }
 }
