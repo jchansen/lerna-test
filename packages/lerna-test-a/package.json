@@ -9,6 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "lerna-test-b": "^0.0.9"
+    "lerna-test-b": "~0.0.9"
   }
 }
